@@ -1,0 +1,4 @@
+acj_api:
+    resource: "@ACJApiBundle/Resources/config/routing.xml"
+    prefix:   /
+
